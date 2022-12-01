@@ -3,12 +3,12 @@ files:
 - name: main.py
   visible: true
   placeholders:
-  - offset: 57
+  - offset: 149
     length: 34
     placeholder_text: '...  # TODO записать функцию-генератор'
     initial_state:
-      length: 38
-      offset: 28
+      length: 34
+      offset: 57
     initialized_from_dependency: false
     selected: false
     status: Solved
@@ -43,5 +43,5 @@ files:
 status: Solved
 feedback:
   message: Congratulations!
-  time: Wed, 30 Nov 2022 18:16:26 UTC
+  time: Thu, 01 Dec 2022 12:53:01 UTC
 record: -1
